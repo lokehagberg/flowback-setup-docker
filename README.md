@@ -3,7 +3,7 @@
 
 ### Requirements for running windows development environment
 - This repository
-- Flowback from GitHub: https://github.com/gofven/flowback
+- Flowback from GitHub: https://github.com/lokehagberg/flowback-backend
 - Docker Desktop: https://www.docker.com/products/docker-desktop/
 - Microsoft Buildtools: https://visualstudio.microsoft.com/downloads/?q=build+tools
 - PostgreSQL 16 Command Line Tools: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
