@@ -1,3 +1,5 @@
+Note that this setup is outdated by 2025-03-24
+
 # Flowback Setup Instructions
 ## Windows development environment
 
